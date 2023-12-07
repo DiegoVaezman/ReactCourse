@@ -1,0 +1,21 @@
+html, body {
+    background-color: #080d20;
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.3rem;
+    padding: 70px;
+
+}
+
+button {
+    padding: 5px;
+    font-size: 1rem;
+    border-radius: 5px;
+    background-color: #080d20;
+    color: #f8f8f8;
+    border-color: #ffffff;
+}
+button:hover {
+    background-color: #ffffff;
+    color: #080d20;
+}
